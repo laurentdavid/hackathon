@@ -17,16 +17,16 @@ Le LMS - Learning Management System, est la section publique de la plateforme E
 
 Lorsque vous installez OpenFUN ou OpenEdX, vous aurez les deux "sites" LMS et Studio sur votre machine de dévelopement.
 
-![](https://github.com/openfun/hackathon/blob/master/docs/static/moocs.png?raw=true)
+![](/docs/static/moocs.png)
 
 Les moocs ne sont pas composés uniquement de vidéos de cours. Ils s'accompagnent aussi de nombreuses activités, jeux ...
 
-![](https://github.com/openfun/hackathon/blob/master/docs/static/dragdrop.png?raw=true)
+![](docs/static/dragdrop.png)
 
 Les étudiants suivent des moocs depuis le *LMS* (Learning Management System):
 
-![](https://github.com/openfun/hackathon/blob/master/docs/static/lms.png?raw=true)
+![](docs/static/lms.png)
 
 Et les professeurs concoivent ces moocs depuis un *CMS* (Content Management System), appelé aussi *Studio*:
 
-![](https://github.com/openfun/hackathon/blob/master/docs/static/cms.png?raw=true)
+![](docs/static/cms.png?raw=true)
